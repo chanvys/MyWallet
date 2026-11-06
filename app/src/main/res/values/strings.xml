@@ -1,0 +1,10 @@
+    <resources>
+        <string name="app_name">មាតិការបស់ខ្ញុំ</string>
+        <string name="this_month_total">ចំណាយសរុបខែនេះ</string>
+        <string name="spending_by_category">ចំណាយតាមប្រភេទ</string>
+        <string name="recent_expenses">ការចំណាយថ្មីៗ</string>
+        <string name="no_expenses_yet">មិនទាន់មានការចំណាយនៅឡើយទេ</string>
+        <string name="undo">ត្រឡប់វិញ</string>
+        <string name="expense_deleted">បានលុបការចំណាយ</string>
+        <string name="add_expense">បន្ថែមការចំណាយ</string>
+    </resources>
